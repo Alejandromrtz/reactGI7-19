@@ -2,7 +2,7 @@ import { Component } from 'react';
 import BasicInfo from './components/BasicInfo';
 let people = [
  {
-   name: 'Cam',
+   name: 'Alex',
    phone: '123456789',
    age: 20,
    favoriteFood: 'Pizza'
